@@ -1,0 +1,7 @@
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.exe
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\bin\Debug\projLivrosLista.pdb
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csprojResolveAssemblyReference.cache
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.exe
+E:\Pendrive IFSP\ADS 471\ESTRUTURA DE DADOS 2\TPS\ACERVO LISTA\projLivrosLista\projLivrosLista\obj\Debug\projLivrosLista.pdb
